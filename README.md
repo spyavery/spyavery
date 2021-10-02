@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spyavery
-- 👀 I’m interested in web development
+- 👀 I’m a full stack php web developer
 - 🌱 I’m currently learning everything nice and spicy (python)
 - 💞️ I’m looking to collaborate on every amazing project you have going on
 - 📫 How to reach me <a href="https://emmanuel-iyogun.webflow.io">Here</a>
